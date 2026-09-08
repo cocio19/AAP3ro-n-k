@@ -1,2 +1,2 @@
 # moodsbysilvie
-"obchod a informace o šperkách
+obchod a informace o šperkách
